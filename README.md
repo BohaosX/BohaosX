@@ -1,4 +1,13 @@
 ### Hi there 👋
+A programmer with a passion for web3 development
+
+Actually participated in Defi, Brdige, NFT, chain tour and other kinds of Dapp.
+- 🔭 I’m currently working on web3 crosschain bridge at Multichain.
+- 🌱 I’m currently learning move and anything about web3.
+- 👯 I’m looking to collaborate on smart contract development.
+- 📫 How to reach me: bohaos@outlook.com
+- ⚡ Fun fact: Curious and confident about web3 related things, especially happy to talk and learn about it with everyone.
+- :scroll: I specialize in contract development on evm, polkadot, cosmos, flow, near and other major public chains.
 
 <!--
 **BohaosX/BohaosX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
