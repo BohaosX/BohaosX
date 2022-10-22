@@ -7,7 +7,10 @@ Actually participated in Defi, Brdige, NFT, chain tour and other kinds of Dapp.
 - 👯 I’m looking to collaborate on smart contract development.
 - 📫 How to reach me: bohaos@outlook.com
 - ⚡ Fun fact: Curious and confident about web3 related things, especially happy to talk and learn about it with everyone.
-- :scroll: I specialize in contract development on evm, polkadot, cosmos, flow, near and other major public chains.
+- :scroll: I specialize in contract development on evm, polkadot, cosmos, flow, near,solana and other major public chains.
+- :scroll: Chains: Ethereum Polkadot Cosmos Solana Flow Cardano Iota Shimmer Near Btc Ripple...
+- :scroll: Language: Rust Golang Java Nodejs...
+- :scroll: Utils: React Web3js Ethers Matemask...
 
 <!--
 **BohaosX/BohaosX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
